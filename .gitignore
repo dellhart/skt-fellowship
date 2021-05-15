@@ -1,0 +1,6 @@
+data/*
+rawdata/*
+outs/*
+.idea
+.ipynb_checkpoints/*
+.DS_Store
